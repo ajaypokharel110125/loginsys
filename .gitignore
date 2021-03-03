@@ -1,4 +1,6 @@
-/lib/
-/bin/
-/lib64/
-/share/
+/bin
+/include
+/lib64
+/lib
+/share
+
